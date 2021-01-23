@@ -1,0 +1,13 @@
+.card {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  border: 1px rgb(9, 48, 80);
+  padding: 5px;
+  box-shadow: 5px 10px 10px 10px rgb(129, 180, 221);
+  width: 640px;
+  padding: 10px;
+  margin-left: 340px;
+}
+a:active{
+  background-color: rgb(9, 48, 80);
+}
